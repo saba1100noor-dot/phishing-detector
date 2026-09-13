@@ -1,0 +1,4 @@
+http://example.com@phishing.com
+http://secure.login.bank.verify.example.com
+http://g00gle.com
+https://google.com

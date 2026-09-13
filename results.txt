@@ -1,0 +1,12 @@
+
+Checking: http://example.com@phishing.com
+Suspicious: URL contains '@' symbol.
+
+Checking: http://secure.login.bank.verify.example.com
+Suspicious: URL has too many subdomains.
+
+Checking: http://g00gle.com
+Suspicious: Domain may be misspelled or untrusted.
+
+Checking: https://google.com
+Safe: No obvious issues found.
